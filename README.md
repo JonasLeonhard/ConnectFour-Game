@@ -1,2 +1,2 @@
 # Vier-Gewinnt-Game
-A simple 'View-Gewinnt' Get Four Game written in Java. 
+A simple Tic Tac Toe Game written in Java. 
