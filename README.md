@@ -1,2 +1,2 @@
 # Vier-Gewinnt-Game
-A simple Tic Tac Toe Game written in Java. 
+A simple Get Four Game written in Java. 
