@@ -1,2 +1,2 @@
 # Vier-Gewinnt-Game
-A simple Get Four Game written in Java. 
+A simple Connect Four Game written in Java. 
