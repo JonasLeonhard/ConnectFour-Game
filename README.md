@@ -7,4 +7,4 @@ MouseListener,
 Observable Interface
 
 ![Vier-Gewinnt](../master/git-readme/Screen01.png)
--Click on a Hole to Place make a Move in that row. Play vs. AI (easy: Simple Player, harder: Super Player) or Play versus each other. 
+-Click on a Hole to make a Move in that row. Play vs. AI (easy: Simple Player, harder: Super Player) or Play versus each other. 
