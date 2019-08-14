@@ -1,5 +1,5 @@
 # Vier-Gewinnt-Game
-A simple Connect Four Game written in Java. 
+A Connect Four Game written in Java. 
 
 Using:
 Extending Jframe(Gameframe), JPanel(PaintPanel),
