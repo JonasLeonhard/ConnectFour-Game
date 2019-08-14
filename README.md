@@ -2,6 +2,7 @@
 A Connect Four Game written in Java. 
 
 Using:
+MVC Design Pattern,
 Extending Jframe(Gameframe), JPanel(PaintPanel),
 MouseListener,
 Observable Interface
