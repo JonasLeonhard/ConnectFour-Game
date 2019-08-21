@@ -1,11 +1,11 @@
 # Vier-Gewinnt-Game
-A Connect Four Game written in Java. 
+A connect four game written in Java. 
 
 Using:
-MVC Design Pattern,
-Extending Jframe(Gameframe), JPanel(PaintPanel),
+MVC design pattern,
+extending Jframe(Gameframe), JPanel(PaintPanel),
 MouseListener,
-Observable Interface
+Observable interface
 
 ![Vier-Gewinnt](../master/git-readme/Screen01.png)
--Click on a Hole to make a Move in that row. Play vs. AI (easy: Simple Player, harder: Super Player) or Play versus each other. 
+Click on a Hole to make a move in that row. Play vs. AI (easy: simple player, harder: super player) or player vs. player. 
